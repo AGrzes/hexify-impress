@@ -1,6 +1,7 @@
 # hexify-impress
 Simple script to layout slides in hex grid for impress.js
 
+
 Reads HTML from standard input and writes HTML into standard output.
 
 ## Input
@@ -9,6 +10,7 @@ The script will consider the following attributes of the step to calculate posit
 * data-hex-y - horizontal coordinate in hex space
 * data-hex-scale - scale of the hex - each increment will fit 7 smaller hexes inside
 * data-hex-size - size of hex - half of the  hex width - one in 1/sqrt(3) hex height
+
 ## Output
 The script will calculate the following attributes
 * data-scale
