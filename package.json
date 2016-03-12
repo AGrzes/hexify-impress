@@ -1,6 +1,6 @@
 {
   "name": "hexify-impress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple script to layout slides in hex grid for impress.js",
   "keywords": [
     "impress.js",
