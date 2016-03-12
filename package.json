@@ -2,18 +2,30 @@
   "name": "hexify-impress",
   "version": "1.0.0",
   "description": "Simple script to layout slides in hex grid for impress.js",
-  "keywords" : ["impress.js","hex","layout"],
-  "bugs" : "https://github.com/AGrzes/hexify-impress/issues",
+  "keywords": [
+    "impress.js",
+    "hex",
+    "layout"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "bugs": "https://github.com/AGrzes/hexify-impress/issues",
   "main": "hexify.js",
-  "bin" : { "hexify" : "./hexify.js" },
+  "bin": {
+    "hexify": "./script.js"
+  },
   "author": "Grzegorz Abramczyk <abramczykg@gmail.com>",
   "contributors": [],
-  "repository" : {
-    "type":"git",
+  "repository": {
+    "type": "git",
     "url": "git@github.com:AGrzes/hexify-impress.git"
   },
   "license": "MIT",
   "dependencies": {
     "trumpet": "^1.7.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
   }
 }
