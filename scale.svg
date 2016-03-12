@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="500"
+   height="500"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="position.svg">
+   sodipodi:docname="scale.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="944.8893"
-     inkscape:cy="824.62606"
+     inkscape:cx="253.94496"
+     inkscape:cy="586.23006"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,7 +34,8 @@
      inkscape:window-height="1148"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     width="524.41px" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -50,7 +51,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-552.36208)">
     <path
        d="m 223.12396,455.37262 34.55253,59.84674 -34.55253,59.84674 -69.10506,0 -34.55254,-59.84674 34.55253,-59.84674 z"
        inkscape:randomized="0"
@@ -66,9 +68,9 @@
        id="path2995"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:type="star"
-       transform="translate(305,-100.56529)" />
+       transform="translate(59.532931,257.02871)" />
     <path
-       transform="matrix(3,0,0,3,-72.142853,-1131.004)"
+       transform="matrix(3,0,0,3,-317.60992,-773.40998)"
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path3054"
@@ -86,25 +88,25 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="452.14285"
-       y="395.93359"
+       x="206.6758"
+       y="753.52759"
        id="text3056"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3058"
-         x="452.14285"
-         y="395.93359"
+         x="206.6758"
+         y="753.52759"
          style="font-size:20px">scale = i</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="373.57144"
-       y="322.36218"
+       x="128.10437"
+       y="679.95618"
        id="text3062"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3064"
-         x="373.57144"
-         y="322.36218">scale = i +1</tspan></text>
+         x="128.10437"
+         y="679.95618">scale = i +1</tspan></text>
   </g>
 </svg>
