@@ -16,3 +16,7 @@ The script will calculate the following attributes
 * data-scale
 * data-x
 * data-y
+## Position
+![Position](position.svg)
+## Scale
+![Position](position.svg)
